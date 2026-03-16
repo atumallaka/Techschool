@@ -154,3 +154,56 @@
             padding-left: 20px;
         }
         
+        .quadrado3  {
+            width: 350px;
+            height: 205px;
+            text-align: center;
+            list-style-position: inside;
+            background-color: rgb(36, 132, 192);
+            border: 2px solid black;
+            display: inline-block;
+            margin: 9px;
+            border-radius: 10px;
+        }
+        
+        .quadrado3 ul {
+            margin-top: 6px;
+            text-align: left;
+            padding-left: 20px;
+        }
+
+        .quadrado3 li {
+            color: rgb(255, 255, 255);
+        }
+
+        .quadrado3 h3 {
+            margin: 0;
+            color: rgb(255, 255, 255);
+            position: relative;
+        }
+
+         .quadrado4  {
+                width: 350px;
+                height: 205px;
+                text-align: center;
+                list-style-position: inside;
+                background-color: rgb(36, 132, 192);
+                border: 2px solid black;
+                display: inline-block;
+                margin: 9px;
+                border-radius: 10px;
+            }
+        
+            .quadrado4 ul {
+                margin-top: 6px;
+                text-align: left;
+                padding-left: 20px;
+            }
+
+            .quadrado4 li {
+                color: rgb(255, 255, 255);
+            }
+
+            .quadrado4 h5 {
+                color: rgb(255, 255, 255);
+            }
